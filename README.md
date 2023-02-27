@@ -1,18 +1,23 @@
-## Getting Started
+# Mortgage Calculator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-## Folder Structure
+### Abstract
 
-The workspace contains two folders by default, where:
+This project is a simple command line application that will calculate the payment schedule for a mortgage based on the user's input (principal, interest, loan duration).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Project Context
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+This project was my entry for Turing School of Software & Engineering's Switch Tech Hackathon. My goal was to build a simple application in Java within about 3 hours. I started teaching myself Java recently, and decided to focus on utilizing proper object-oriented design (encapsulation, inheritance, abstraction, etc.) over impressive functionality.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Installation Instructions
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Fork this repository.
+2. Clone your forked repository to your machine.
+3. Install the [Java Runtime Environment](https://www.java.com/en/download/manual.jsp) (JRE) to your local machine, if not previously installed.
+4. Install the appropriate Java Development Kit (JDK) for your code editor, if not previously installed.
+    - For VSCode, install [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+5. Open the project in your code editor.
+6. With the correct JRE and JDK installed, the project can be run from within your code editor's terminal.
