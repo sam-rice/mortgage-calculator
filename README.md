@@ -18,6 +18,6 @@ This project was my entry for Turing School of Software & Engineering's Switch T
 2. Clone your forked repository to your machine.
 3. Install the [Java Runtime Environment](https://www.java.com/en/download/manual.jsp) (JRE) to your local machine, if not previously installed.
 4. Install the appropriate Java Development Kit (JDK) for your code editor, if not previously installed.
-    - For VSCode, install [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+    - For Visual Studio Code, install [Language Support for Java by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java).
 5. Open the project in your code editor.
 6. With the correct JRE and JDK installed, the project can be run from within your code editor's terminal.
