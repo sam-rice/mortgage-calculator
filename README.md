@@ -10,7 +10,7 @@ This project is a simple command line application that will calculate the paymen
 
 ### Project Context
 
-This project was my entry for Turing School of Software & Engineering's Switch Tech Hackathon. My goal was to build a simple application in Java within about 3 hours. I started teaching myself Java recently, and decided to focus on utilizing proper object-oriented design (encapsulation, inheritance, abstraction, etc.) over impressive functionality.
+This project was my entry for Turing School of Software & Engineering's Switch Tech Hackathon. My goal was to build a simple application in Java within about 4 hours. I started teaching myself Java recently, and decided to focus on utilizing proper object-oriented design (encapsulation, inheritance, abstraction, etc.) over impressive functionality.
 
 ### Installation Instructions
 
