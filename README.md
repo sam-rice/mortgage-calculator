@@ -6,7 +6,7 @@
 
 ### Abstract
 
-This project is a simple command line application that will calculate the payment schedule for a mortgage based on the user's input (principal, interest, loan duration).
+This project is a simple command line application that will calculate the payment schedule for a mortgage based on the user's input (principal, interest, and loan duration).
 
 ### Project Context
 
